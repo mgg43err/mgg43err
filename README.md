@@ -1,16 +1,15 @@
 ### Hi there 👋
+from 
+Frontendu enginru
 
-<!--
-**mgg43err/mgg43err** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![large](https://user-images.githubusercontent.com/39748734/236594286-25a2545a-90bf-4d5c-ab05-9c9574d536c0.svg)
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Node.js
+- 🌱 I’m currently learning Backend
+- 🤔 I’m looking for help with V8
+- 💬 Ask me about a11y and perfomance
+- 📫 How to reach me: text me in issues
+- ⚡ Fun fact: don't like dumplings
