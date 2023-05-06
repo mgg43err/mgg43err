@@ -4,9 +4,6 @@ Frontendu enginru
 
 ![large](https://user-images.githubusercontent.com/39748734/236594286-25a2545a-90bf-4d5c-ab05-9c9574d536c0.svg)
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Node.js
 - 🌱 I’m currently learning Backend
 - 🤔 I’m looking for help with V8
