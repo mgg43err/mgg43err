@@ -2,7 +2,7 @@
 from 
 Frontendu enginru
 
-![large](https://user-images.githubusercontent.com/39748734/236594286-25a2545a-90bf-4d5c-ab05-9c9574d536c0.svg)
+![large](https://www.codewars.com/users/rsschool_70f1ddaa50e8c562/badges/large)
 
 - 🔭 I’m currently working on Node.js
 - 🌱 I’m currently learning Backend
