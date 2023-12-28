@@ -1,8 +1,12 @@
-### Hi there 👋
-from 
+### Hi there 👋from 
 Frontendu enginru
+ ------------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
 
-https://t.me/SuperTON777
 
 ![large](https://www.codewars.com/users/rsschool_70f1ddaa50e8c562/badges/large)
 
@@ -12,3 +16,5 @@ https://t.me/SuperTON777
 - 💬 Ask me about a11y and perfomance
 - 📫 How to reach me: text me in issues
 - ⚡ Fun fact: don't like dumplings
+
+https://t.me/SuperTON777 
